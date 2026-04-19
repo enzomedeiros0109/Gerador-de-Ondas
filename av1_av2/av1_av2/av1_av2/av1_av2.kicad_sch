@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "9dc81fdb-00e7-4448-bf2a-1dc961e558eb")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 24.13 21.59)
+		(size 71.12 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1cef5d14-0854-44b8-acc9-b911f3812b60")
+		(property "Sheetname" "fonte"
+			(at 24.13 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fonte.kicad_sch"
+			(at 24.13 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "av1_av2"
+				(path "/9dc81fdb-00e7-4448-bf2a-1dc961e558eb"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 109.22 21.59)
+		(size 78.74 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "36c34c08-33ca-49c0-a855-a21eb3338b6e")
+		(property "Sheetname" "gerador1"
+			(at 109.22 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gerador1.kicad_sch"
+			(at 109.22 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "av1_av2"
+				(path "/9dc81fdb-00e7-4448-bf2a-1dc961e558eb"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 201.93 21.59)
+		(size 77.47 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aa662f28-72ff-4b18-871e-06aae68bd807")
+		(property "Sheetname" "amplificador"
+			(at 201.93 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "amplificador.kicad_sch"
+			(at 201.93 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "av1_av2"
+				(path "/9dc81fdb-00e7-4448-bf2a-1dc961e558eb"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
